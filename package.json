@@ -9,13 +9,18 @@
     "build": "parcel build index.html --public-url ./"
   },
   "dependencies": {
+    "html2canvas": "^1.0.0-alpha.12",
     "vue": "^2.5.17",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "weixin-js-sdk": "^1.3.3",
+    "zepto2": "^0.0.1"
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^2.2.0",
     "autoprefixer": "^9.1.5",
     "babel-core": "^6.26.3",
+    "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "cssnano": "^4.1.0",
     "node-sass": "^4.9.3",
