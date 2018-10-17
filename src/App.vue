@@ -14,5 +14,8 @@ export default {
 <style>
 #app {
   font-size: 16px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 </style>
