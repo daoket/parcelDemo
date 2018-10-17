@@ -1,3 +1,3 @@
 ## vue-parcel  
 
-使用parcel打包vue项目如，入门例子
+使用parcel打包vue项目入门例子
